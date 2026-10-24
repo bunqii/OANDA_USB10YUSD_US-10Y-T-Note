@@ -6,7 +6,7 @@
   "chunk_end": "2029-12-31",
   "parquet_file": "OANDA_USB10YUSD_US-10Y-T-Note_D_2020-01-01_to_2029-12-31.parquet",
   "data_file": "OANDA_USB10YUSD_US-10Y-T-Note_D_2020-01-01_to_2029-12-31.parquet",
-  "row_count": 1761,
+  "row_count": 1762,
   "first_candle": {
     "time": 1577916000,
     "Time": "2020-01-01T22:00:00.000000000Z",
@@ -17,16 +17,16 @@
     "volume": 5679
   },
   "last_candle": {
-    "time": 1792616400,
-    "Time": "2026-10-21T21:00:00.000000000Z",
-    "open": 105.416,
-    "high": 106.666,
-    "low": 105.416,
-    "close": 106.524,
-    "volume": 5521
+    "time": 1792702800,
+    "Time": "2026-10-22T21:00:00.000000000Z",
+    "open": 106.524,
+    "high": 106.602,
+    "low": 106.178,
+    "close": 106.271,
+    "volume": 5279
   },
   "csv_file": "OANDA_USB10YUSD_US-10Y-T-Note_D_2020-01-01_to_2029-12-31.parquet",
-  "csv_row_count": 1761,
+  "csv_row_count": 1762,
   "csv_first_candle": {
     "time": 1577916000,
     "Time": "2020-01-01T22:00:00.000000000Z",
@@ -37,17 +37,17 @@
     "volume": 5679
   },
   "csv_last_candle": {
-    "time": 1792616400,
-    "Time": "2026-10-21T21:00:00.000000000Z",
-    "open": 105.416,
-    "high": 106.666,
-    "low": 105.416,
-    "close": 106.524,
-    "volume": 5521
+    "time": 1792702800,
+    "Time": "2026-10-22T21:00:00.000000000Z",
+    "open": 106.524,
+    "high": 106.602,
+    "low": 106.178,
+    "close": 106.271,
+    "volume": 5279
   },
   "status": "VERIFIED_PARTIAL",
-  "verified_at": "2026-10-23T05:12:41.000000000Z",
-  "generated_at": "2026-10-23T05:12:41.000000000Z",
+  "verified_at": "2026-10-24T05:01:29.000000000Z",
+  "generated_at": "2026-10-24T05:01:29.000000000Z",
   "download_request": {
     "total_api_blocks_in_run": 1,
     "chunk_api_blocks": 1,
@@ -55,8 +55,8 @@
     "permanent_error_details": [],
     "all_block_outcomes": [
       {
-        "from": "2026-10-19T21:00:00Z",
-        "to": "2026-10-22T21:00:00Z",
+        "from": "2026-10-20T21:00:00Z",
+        "to": "2026-10-23T21:00:00Z",
         "code": 200,
         "msg": "OK"
       }
